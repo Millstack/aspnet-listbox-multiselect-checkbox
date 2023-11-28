@@ -131,7 +131,7 @@ $('#ddlRole').on('sumo:opening', function () {
 
 
 The `width` is getting by default smaller, so customizing the width of ListBox using the internal CSS   
-``` javascript
+``` html
 <%-- as SumoSelect in JS is not working, hence manually setting it --%>
 <%-- !important is needed --%>
 <style>
